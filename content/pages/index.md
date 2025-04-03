@@ -205,7 +205,8 @@ sections:
       freedom you need to elevate your content and make it truly resonate.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        /images/vecteezy_minimalist-waveform-audio-abstract-white-on-black-sound_7237578.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
