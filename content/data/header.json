@@ -15,7 +15,7 @@
         {
             "label": "Library",
             "altText": "Library",
-            "url": "/blog",
+            "url": "/library",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
