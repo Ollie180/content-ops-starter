@@ -2,19 +2,6 @@
     "type": "Person",
     "name": "Johnny B. Goode",
     "role": "Co-founder & CEO",
-    "image": {
-        "url": "/images/avatar4.svg",
-        "altText": "Nina Mercado",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
