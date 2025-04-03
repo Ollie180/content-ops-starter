@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Library",
-            "altText": "Blog",
+            "altText": "Library",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
