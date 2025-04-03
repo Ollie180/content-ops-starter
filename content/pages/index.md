@@ -125,10 +125,15 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Enjoy complete peace of mind with WavFinder's royalty-free audio
+          library. Every track is available for unrestricted use, eliminating
+          the hassle of licensing and copyright concerns. Use our sounds in your
+          videos, podcasts, games, and commercial projects without any hidden
+          fees or legal worries. With WavFinder, you have the freedom to create
+          and distribute your content confidently, knowing you have the right to
+          use our audio in any way you choose.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
