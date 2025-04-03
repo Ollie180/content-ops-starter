@@ -28,9 +28,55 @@ styles:
     flexDirection: col
 author: content/data/person4.json
 ---
+```
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+1. Acceptance of Terms
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+By accessing and using WavFinder (the "Service"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree with any part of these Terms, you must not use the Service.
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+2. Description of Service
+
+WavFinder provides a repository of audio files (the "Audio Files") that are made freely available to the public. These Audio Files may include, but are not limited to, music, sound effects, and spoken word recordings.
+
+3. License and Usage
+
+3.1 Commercial and Non-Commercial Use: All Audio Files on WavFinder are available for both commercial and non-commercial use. You may use, modify, and distribute the Audio Files in your projects without any restrictions or fees.
+
+3.2 Attribution: While attribution is not required, we encourage you to credit WavFinder and the original creators of the Audio Files whenever possible. This helps promote the Service and supports the community of contributors.
+
+3.3 No Warranty: WavFinder provides the Audio Files "as is" and "as available" without any warranties or guarantees. We do not warrant that the Audio Files will be error-free, uninterrupted, or suitable for your specific purpose.
+
+4. User Conduct
+
+4.1 Respectful Use: You agree to use the Service and the Audio Files in a respectful and lawful manner. You must not use the Audio Files for any illegal, harmful, or unethical purposes.
+
+4.2 No Redistribution as a Service: You may not redistribute the Audio Files as part of a competing audio repository or similar service.
+
+4.3 No Misrepresentation: You must not misrepresent the origin or ownership of the Audio Files.
+
+5. Intellectual Property
+
+5.1 Ownership: The Audio Files on WavFinder are provided by contributors who have granted permission for their use. WavFinder does not claim ownership of the Audio Files.
+
+5.2 Copyright: You are responsible for ensuring that your use of the Audio Files complies with all applicable copyright laws of the United States.
+
+6. Disclaimer of Liability
+
+6.1 Limitation of Liability: WavFinder shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of your use of the Service or the Audio Files.
+
+6.2 Indemnification: You agree to indemnify and hold WavFinder harmless from any claims, damages, or losses arising out of your use of the Service or your violation of these Terms.
+
+7. Modifications to Terms
+
+WavFinder reserves the right to modify these Terms at any time. We will notify you of any changes by posting the new Terms on the Service. Your continued use of the Service after such changes constitutes your acceptance of the new Terms.
+
+8. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of the United States of America, without regard to its conflict of law principles.
+
+9. Contact Information
+
+If you have any questions or concerns about these Terms, please contact us at wavfinder@github.com.
+
+```
+
