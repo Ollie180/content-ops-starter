@@ -205,7 +205,8 @@ sections:
       freedom you need to elevate your content and make it truly resonate.
     media:
       title: ''
-      url: ''
+      url: >-
+        public/images/vecteezy_minimalist-waveform-audio-abstract-white-on-black-sound_7237578.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
