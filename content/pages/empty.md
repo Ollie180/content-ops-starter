@@ -13,7 +13,7 @@ sections:
     posts:
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
