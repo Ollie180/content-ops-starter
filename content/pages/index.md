@@ -206,7 +206,7 @@ sections:
     media:
       title: ''
       url: >-
-        /images/vecteezy_minimalist-waveform-audio-abstract-white-on-black-sound_7237578.mp4
+        public/images/vecteezy_minimalist-waveform-audio-abstract-white-on-black-sound_7237578.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
