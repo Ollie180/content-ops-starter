@@ -124,7 +124,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'Royalty-Free Tracks, Zero Restrictions.'
-        subtitle: Faster
+        subtitle: ''
         text: >
 
           Enjoy complete peace of mind with WavFinder's royalty-free audio
