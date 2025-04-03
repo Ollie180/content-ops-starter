@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Join the WavFinder community.
         altText: ''
         url: /
         showIcon: true
