@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+
+      WavFinder is more than just a library; it's a hub for creators. Share,
+      discover, and collaborate with a community of audio enthusiasts. Access
+      thousands of free, royalty-free tracks and contribute your own.
     actions:
       - label: Get started
         altText: ''
