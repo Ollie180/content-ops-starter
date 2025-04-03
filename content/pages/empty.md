@@ -15,7 +15,7 @@ sections:
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
     showThumbnail: false
     showExcerpt: false
-    showDate: true
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
