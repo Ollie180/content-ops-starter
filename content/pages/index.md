@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 'Find Your Perfect Sound, Instantly.'
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
 
           Say goodbye to endless scrolling and tedious searches. WavFinder's
