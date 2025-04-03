@@ -223,11 +223,17 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: 'Discover, Create, and Distribute with Complete Audio Freedom'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+
+      WavFinder revolutionizes your audio search by offering a vast, curated
+      library of high-quality, royalty-free audio files, all accessible
+      completely free of charge. Say goodbye to restrictive licensing and budget
+      constraints, and hello to limitless creative possibilities. With our
+      intuitive search and filtering tools, finding the perfect sound for your
+      project is faster and easier than ever before, empowering you to bring
+      your vision to life without any sonic limitations. Whether you're a
+      seasoned professional or a budding creator, WavFinder provides the audio
+      freedom you need to elevate your content and make it truly resonate.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
