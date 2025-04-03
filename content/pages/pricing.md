@@ -14,9 +14,8 @@ sections:
       - title: Developers
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Download as you need
         features:
           - Feature one
           - Feature two
