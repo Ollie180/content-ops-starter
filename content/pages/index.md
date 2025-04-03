@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Join the WavFinder community.
+      - label: Be sure to catch the best wavs.
         altText: ''
         url: /
         showIcon: true
