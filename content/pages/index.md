@@ -204,7 +204,7 @@ sections:
       seasoned professional or a budding creator, WavFinder provides the audio
       freedom you need to elevate your content and make it truly resonate.
     media:
-      title: Title of the video
+      title: ''
       url: >-
         /images/vecteezy_minimalist-waveform-audio-abstract-white-on-black-sound_7237578.mp4
       controls: false
