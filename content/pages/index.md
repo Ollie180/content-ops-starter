@@ -123,7 +123,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 'Royalty-Free Tracks, Zero Restrictions.'
         subtitle: Faster
         text: >
 
