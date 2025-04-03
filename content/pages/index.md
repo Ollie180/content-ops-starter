@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Discover, Create, and Distribute with Complete Audio Freedom'
     items:
       - type: FeaturedItem
         title: 'Unlimited Free Audio, Limitless Creativity.'
