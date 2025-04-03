@@ -7,7 +7,7 @@ sections:
       text: 'Your Sound, Our Community.'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ' WavFinder: The Ultimate Free Audio Repository.'
     text: >
 
       WavFinder is more than just a library; it's a hub for creators. Share,
