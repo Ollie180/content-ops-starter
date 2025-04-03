@@ -11,37 +11,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: |
-          Download as you need
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
       - title: Professional
         price: Free
         details: ''
