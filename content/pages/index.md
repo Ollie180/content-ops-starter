@@ -61,10 +61,15 @@ sections:
       - type: FeaturedItem
         title: 'Unlimited Free Audio, Limitless Creativity.'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Unlock a world of sonic possibilities with WavFinder's vast collection
+          of free audio files. Dive into our expansive library and discover
+          everything from cinematic soundscapes to punchy sound effects, all
+          available at no cost. Fuel your creative projects without budget
+          constraints, and let your imagination soar. With WavFinder, you have
+          the freedom to experiment, innovate, and create without limitations,
+          ensuring your audio always hits the right note.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
