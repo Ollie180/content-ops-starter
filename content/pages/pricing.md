@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: Professional
         price: Free
-        details: per monthp
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
