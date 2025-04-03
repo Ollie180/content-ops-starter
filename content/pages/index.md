@@ -94,10 +94,16 @@ sections:
               borderRadius: x-large
       - title: 'Find Your Perfect Sound, Instantly.'
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Say goodbye to endless scrolling and tedious searches. WavFinder's
+          intuitive search and filtering system empowers you to pinpoint the
+          exact audio you need in seconds. Explore by genre, mood, instrument,
+          or keyword, and quickly sift through thousands of high-quality tracks.
+          Whether you're seeking a specific sound effect or a complete musical
+          composition, WavFinder's efficient tools ensure you find the perfect
+          audio to complement your project, saving you time and maximizing your
+          creative output.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
